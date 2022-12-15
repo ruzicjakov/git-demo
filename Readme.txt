@@ -1,1 +1,2 @@
-Jakov Ruzic 
+Jakov Ruzic
+Student Informatike u Puli
